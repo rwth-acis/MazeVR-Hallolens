@@ -14,11 +14,6 @@ public class DoorInteraction : MonoBehaviour, IMixedRealityPointerHandler
         contr = gameObject.GetComponent<DoorController>();
         contr.DoorOpen = false;
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 
     public void OnPointerDown(MixedRealityPointerEventData eventData)
     {
