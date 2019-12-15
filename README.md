@@ -17,7 +17,8 @@ Further development of the [TiltMaze](https://github.com/rwth-acis/TiltMaze-Hall
 - Clone/Download MazeVR-Hallolens Unity project folder
 - Open project with Unity
 - Make sure VR-Support is turned on in the player settings
-- 
+- Build using standard settings for Windows devices
+- Open the application file and run the application on a Windows machine while Vive is connected to it  
 ## Resources Used
 - Unity 2018.4.13
 - Microsoft Mixed Reality Toolkit v2.1.0 [Link](https://github.com/microsoft/MixedRealityToolkit-Unity/releases/tag/v2.1.0)
